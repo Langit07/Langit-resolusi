@@ -5,4 +5,5 @@ rencana belajar :
 -dom
 -api
 -framework js
--liberary js
+*angular
+*react
