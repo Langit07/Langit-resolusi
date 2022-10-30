@@ -1,0 +1,7 @@
+rencana belajar :
+-git &  github
+-js lanjutan
+-html 5
+-dom
+-api
+-framework js
