@@ -4,5 +4,8 @@ rencana belajar :
 -html 5
 -dom
 -api
--framework js
+-framework js 
+  *vue
+  *react
+  *node
 -liberary js
