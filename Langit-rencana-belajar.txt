@@ -7,4 +7,5 @@ rencana belajar :
 -framework js 
   *vue
   *react
+  *node
 -liberary js
